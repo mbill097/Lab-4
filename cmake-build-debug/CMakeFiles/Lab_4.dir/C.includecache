@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/mbill/CLionProject/Lab-4/main.c
+stdlib.h
+-
+stdio.h
+-
+omp.h
+-
+time.h
+-
+sys/time.h
+-
+memory.h
+-
+pthread.h
+-
+
