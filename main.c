@@ -145,3 +145,15 @@ int main()
 
     return 0;
 }
+//College, ©. D., 2009. dartmouth. [Online]
+//Available at: https://www.dartmouth.edu/~rc/classes/intro_openmp/Approaches_to_Parallelism_Using_OpenMP.html
+//[Accessed 11 12 2019].
+//geeksforgeeks, 2017. Quicksort. [Online]
+//Available at: https://www.geeksforgeeks.org/quick-sort/
+//[Accessed 12 2019].
+//IBM, 2018. Pragma Directives for Parallel processing. [Online]
+//Available at: https://www.ibm.com/support/knowledgecenter/SSGH2K_13.1.2/com.ibm.xlc131.aix.doc/compiler_ref/tuoptppp.html
+//[Accessed 12 2019].
+//Wiki, 2016. Quicksort. [Online]
+//Available at: https://en.wikipedia.org/wiki/Quicksort
+//[Accessed 12 2019].
